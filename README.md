@@ -10,7 +10,7 @@
 <br>
 <img src="https://github.com/Sanket-Mathur-22/Smart-Home-UI/assets/88501631/4cb0126c-afea-4457-bee7-74e7c4381c11" width="320" height="670"/>
 <br>
-<img src="https://github.com/Sanket-Mathur-22/Smart-Home-UI/assets/88501631/d159e2fd-2019-4043-8ea6-91652848d2d9" height="670"/>
+<img src="https://github.com/Sanket-Mathur-22/Smart-Home-UI/assets/88501631/d159e2fd-2019-4043-8ea6-91652848d2d9" width="320" height="670"/>
 <br>
 
 
