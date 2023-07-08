@@ -22,4 +22,5 @@
 
 
 
-https://github.com/Sanket-Mathur-22/Quick-Jot/assets/88501631/5ae2d5d1-60f6-40fd-979a-9d5926508109
+https://github.com/Sanket-Mathur-22/Smart-Home-UI/assets/88501631/9c747918-adc9-4283-812b-d430ea414ada
+
